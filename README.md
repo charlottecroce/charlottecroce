@@ -1,4 +1,4 @@
-### My repositories have been moved to Codeberg.org, anything still here is proabbly outdated
+### My repositories have been moved to Codeberg.org, anything still here is proabably outdated
 All projects previously hosted on this GitHub account have been migrated to Codeberg.
 
 #### Why Codeberg?
